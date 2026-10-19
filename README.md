@@ -14,6 +14,10 @@ Built so that a real reward (a gift) isn't just handed over for free, but **earn
 
 ---
 
+[![Yıldız Avcıları trailer](docs/promo.gif)](https://cryme.tr/films/yildiz.mp4)
+
+_[Watch the trailer with sound](https://cryme.tr/films/yildiz.mp4)_
+
 ## ✨ Highlights
 
 - **RPG onboarding wizard** — On first login the kid gets a cinematic intro, picks a *class*, and a guide bot explains the system like a game tutorial.
